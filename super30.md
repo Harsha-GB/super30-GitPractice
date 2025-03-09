@@ -1,4 +1,3 @@
-
 # this is a sample markdown file. 
 # add your details here: 
 # sudheer kumar
@@ -17,4 +16,6 @@
 ## Hyderabad
 ## karthik katikola
 ## hyderabad
+# Pranav Amargami
+## Iam from Munagala
 
